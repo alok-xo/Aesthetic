@@ -3,36 +3,15 @@ html {
 }
 
 body {
-    /* margin: 0;
-    padding: 0; */
     overflow-x: hidden;
     font-family: 'Raleway', sans-serif;
 }
 
-/* .container-fluid {
-    margin: 0;
-    padding: 0;
-} */
-
-/* .ak {
-    background-color: blue;
-    border-radius: 50rem;
-    height: 70rem;
-    width: 80rem;
-    opacity: 0.05;
-    margin-left: 50rem;
-    position: fixed;
-    margin-top: -23rem;
-    position: relative;
-} */
 .ak1 {
     background-color: #f3f9fd;
     height: 45rem;
     width: 46rem;
     margin-left: 5rem;
-    /* margin-top: -40rem; */
-    /* margin: 2rem 8rem 0rem 0rem ; */
-    /* border-end-end-radius: 12rem ; */
     border-bottom-left-radius: 50rem;
     margin-left: 50rem;
     margin-top: -244.5rem;
@@ -43,8 +22,6 @@ body {
     height: 60rem;
     width: 64rem;
     margin-left: -28rem;
-    /* border-top-right-radius: 70rem;
-    border-bottom-right-radius: rem; */
     border-radius: 30rem;
     background-color: #fffee5;
 }
@@ -89,12 +66,6 @@ ol .cont_bord:hover {
 header img {
     margin-top: -6px;
 }
-
-/* main {
-    height: 43.5rem;
-    overflow: auto;
-    overflow-x: hidden;
-} */
 
 .dropdown {
     position: relative;
@@ -142,8 +113,6 @@ header ol :hover {
     font-size: 85px;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
-    /* display: flex; */
-    /* justify-content: right; */
     text-align: right;
 }
 
@@ -169,12 +138,6 @@ main p {
 
 #lk {
     padding: 5rem;
-    /* border: 1px solid red; */
-    /* background-image: url(https://25677985.fs1.hubspotusercontent-eu1.net/hubfs/25677985/Aesthetics/hero-image-2.webp); */
-    /* height: 718px; */
-    /* background-size: cover; */
-    /* width: 600px; */
-    /* height="718px" width="600px" */
 }
 
 
@@ -558,12 +521,6 @@ footer ul li{
     width: 100%;
     background-color: #586071;
 }
-/* .complete{
-    display: flex;
-    align-items: center;
-    text-align: center;
-    height: 100%;
-} */
 .mini{
     font-size: small;
 }
